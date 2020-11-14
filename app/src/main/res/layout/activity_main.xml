@@ -148,22 +148,22 @@
             <TextView
                 android:id="@+id/tvDot"
                 style="@style/NumberButtonStyle"
-                android:text="."/>
+                android:text="." />
 
             <TextView
                 android:id="@+id/tvZero"
                 style="@style/NumberButtonStyle"
-                android:text="0"/>
+                android:text="0" />
 
             <TextView
                 android:id="@+id/tvBack"
                 style="@style/NumberButtonStyle"
-                android:text="DEL"/>
+                android:text="DEL" />
 
             <TextView
                 android:id="@+id/tvEquals"
                 style="@style/EqualButtonStyle"
-                android:text="="/>
+                android:text="=" />
 
 
         </LinearLayout>
